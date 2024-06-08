@@ -104,7 +104,7 @@
 </div>
 
 <center>
-  <img src="https://github.com/Johanafuku/Johanafuku/blob/main/Diana%E2%80%99s%20profile.gif" width="750" height="500"/>
+  <img src="https://github.com/Johanafuku/Johanafuku/blob/main/image_profile.gif" width="750" height="450"/>
 </center>
 
 <h3 align="center">Full-stack developer | Blockchain | Data Scientist </h3>
